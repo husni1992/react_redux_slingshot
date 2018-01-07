@@ -1,0 +1,8 @@
+export const TOGGLE_ALL_TODO = "TOGGLE_ALL_TODO";
+export const ADD_ITEM = "ADD_ITEM";
+export const REMOVE_ITEM = "REMOVE_ITEM";
+export const DONE_ITEM = "DONE_ITEM";
+
+export const FETCH_TODOS = "FETCH_TODOS";
+export const FETCH_TODOS_SUCCESS = "FETCH_TODOS_SUCCESS";
+export const FETCH_TODOS_FAILED = "FETCH_TODOS_FAILED";
